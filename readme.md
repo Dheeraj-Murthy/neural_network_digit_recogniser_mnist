@@ -1,4 +1,2 @@
-##This is a ai image detector which can differentiate between handwritten images of different numbers randing from 0 to 9.
+# This is a ai image detector which can differentiate between handwritten images of different numbers randing from 0 to 9.
 It uses a simple neural network with 1 hidden layer. It also uses ReLU to compress the results. It works with an efficiency of 92 percent at the end of 100 iterations.
-
-![Uploading Screenshot 2024-06-12 at 7.35.24 AM.png…]()
